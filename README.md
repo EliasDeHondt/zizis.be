@@ -1,3 +1,3 @@
-![tereiken-live-logo](https://user-images.githubusercontent.com/25233962/183263059-4eeebc7c-b44f-4c74-82ff-99ae2e43c177.png)
-# zizis.ve
+![zizis-logo](https://user-images.githubusercontent.com/25233962/184013732-33d16e0b-ac22-4707-bca7-6f6f75f9a3e6.png)
+# zizis.be
 Static website for hair salon.
